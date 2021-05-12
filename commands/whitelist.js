@@ -3,6 +3,8 @@ const config = require("../config.json")
 const fs = require('fs')
  
 exports.execute = async (client, message, args) => {
+  if(message.guild.owner.id !== message.author.id) return message.channel.send(new Discord.MessageEmbed().setColor("BLUE").setAuthor(message.author.tag,message.author.displayAvatarURL({ dynamic:true })).setFooter(client.user.username, client.user.displayAvatarURL()).setTitle("Hata!").setDescription(`__**Bu Komutu Sadece Sunucu Sahibi Kullanabilir**__`))
+
   let embed = new MessageEmbed().setColor("#f2b5c8").setAuthor(message.member.displayName, message.author.avatarURL({ dynamic: true, })).setFooter(`B$T4 Koruma Sistemi`).setTimestamp();
 let beyazlistedeolanlar = config.whitelist || [];
 let embed2 = new MessageEmbed()
