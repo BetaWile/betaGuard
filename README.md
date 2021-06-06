@@ -1,4 +1,4 @@
-# Discord Register Bot
+# Discord Guard Bot
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
