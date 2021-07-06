@@ -1,7 +1,7 @@
 # Discord Guard Bot
 
 
- - [Discord Guard Bot](https://github.com/beT4ww/bet4Guard)
+ - [Discord Guard Bot](https://github.com/beT4w/bet4Guard)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
