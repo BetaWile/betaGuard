@@ -1,0 +1,14 @@
+{
+  "name": "discord-guard-bot",
+  "version": "1.0.0",
+  "main": "beta.js",
+  "author": "Beta",
+  "license": "MIT",
+  "scripts": {
+    "start": "node beta.js"
+  },
+  "description": "",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}

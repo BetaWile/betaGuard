@@ -1,0 +1,18 @@
+{
+  "OwnerID":"", 
+  "Prefix":"", 
+  "Token":"", 
+  "Status": "",
+  "guildID":"", 
+  "logChannelID":"", 
+  "channelProtection":true,
+  "roleProtection":true,
+  "botProtection":true,
+  "banProtection":true,
+  "kickProtection":true,
+  "serverProtection":true,
+  "rightClickProtection":true, 
+  "whitelist":["", "", ""], 
+  "boosterRole":"", 
+  "jailRole":"" 
+}
