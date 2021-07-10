@@ -89,7 +89,7 @@ Sıkça sorulan sorulara buradan ulaşabilirsin.
 **A:** Eğer istediğin şey hoşuma giderse ve yapmaktan zevk alacaksam eklerim.
 
 **Q:** Altyapı tamamen sanamı ait?<br />
-**A:** Hayır, tamamen bana ait değil sadece bağzı yapamadığım ufak bir kısmıları hazır olarak ekledim.  
+**A:** Hayır, tamamen bana ait değil sadece bağzı yapamadığım ufak kısımları (Serendia Squad)[https://discord.gg/serendia] 'dan göz gezdirdim. (:
 
 **Q:** Hatalarla ilgileniyor musun?<br />
 **A:** Proje içindeki hatalarla ilgileniyorum. Eğer bir hata ile karşılaşırsanız lütfen Discorddan benimle iletişim kurun. 
