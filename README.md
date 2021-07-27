@@ -1,13 +1,12 @@
 # Discord Guard Bot
 
- [BOŞ GEÇMEYELİM STAR ATALIM](https://cdn.discordapp.com/attachments/854002604841500742/854072739446259722/unknown.png)
-
- - [Discord Guard Bot](https://github.com/beT4w/bet4Guard)
+ - [Discord Guard Bot](https://github.com/beT4w/betaGuard)
       - [Kurulum](#kurulum)
       - [İçerikler](#İçerikler)
       - [İletişim](#İletişim)
       - [FAQ](#faq)
 
+<img src="https://betaaa.has-a-hot.mom/55on5CPGn.png"/>
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
