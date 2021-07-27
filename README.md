@@ -6,7 +6,11 @@
       - [İletişim](#İletişim)
       - [FAQ](#faq)
 
-<img src="https://betaaa.has-a-hot.mom/55on5CPGn.png"/>
+<div align="center">
+   <a href="https://github.com/BetaWile" target="_blank">
+      <img src="https://betaaa.has-a-hot.mom/55on5CPGn.png">
+   </a>
+</div>
 
 # Kurulum
 * İlk olarak bilgisayarına [Node JS](https://nodejs.org/en/) indir.
